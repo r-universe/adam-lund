@@ -1,0 +1,10 @@
+[
+  {
+    "package": "FRESHD",
+    "oncran": true
+  },
+  {
+    "package": "glamlasso",
+    "oncran": true
+  }
+]

@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FRESHD"]
+	path = FRESHD
+	url = https://github.com/adam-lund/freshd
+	shallow = true
+	registered = true
+[submodule "glamlasso"]
+	path = glamlasso
+	url = https://github.com/adam-lund/glamlasso
+	shallow = true
+	registered = true
