@@ -13,3 +13,13 @@
 	url = https://github.com/adam-lund/glamlasso
 	shallow = true
 	registered = true
+[submodule "SMMA"]
+	path = SMMA
+	url = https://github.com/cran/SMMA
+	shallow = true
+	registered = true
+[submodule "SMME"]
+	path = SMME
+	url = https://github.com/cran/SMME
+	shallow = true
+	registered = true
