@@ -5,12 +5,12 @@
 [submodule "FRESHD"]
 	path = FRESHD
 	url = https://github.com/adam-lund/freshd
-[submodule "glamlasso"]
-	path = glamlasso
-	url = https://github.com/adam-lund/glamlasso
 [submodule "SMMA"]
 	path = SMMA
 	url = https://github.com/cran/SMMA
 [submodule "SMME"]
 	path = SMME
 	url = https://github.com/cran/SMME
+[submodule "glamlasso"]
+	path = glamlasso
+	url = https://github.com/adam-lund/glamlasso
