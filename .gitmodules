@@ -2,15 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "FRESHD"]
-	path = FRESHD
-	url = https://github.com/adam-lund/freshd
 [submodule "SMMA"]
 	path = SMMA
 	url = https://github.com/cran/SMMA
 [submodule "SMME"]
 	path = SMME
 	url = https://github.com/cran/SMME
-[submodule "glamlasso"]
-	path = glamlasso
-	url = https://github.com/adam-lund/glamlasso
